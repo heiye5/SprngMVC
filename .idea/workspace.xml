@@ -2,34 +2,37 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc01-serlvet:war exploded" />
+      <artifact name="springmvc02-hellomvc:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c210ead1-b9ed-40b5-9ef7-f4a512805d2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc01_serlvet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/WEB-INF/classes/com/kuang/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/WEB-INF/from.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springmvc01_serlvet_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/springmvc01-serlvet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/src/main/java/com/kuang/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/target/classes/com/kuang/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/from.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01-serlvet/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc02_2_reset_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc02_hellomvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/springmvc02-2-reset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/src/main/java/com/kuang/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springmvc01_serlvet_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc01_serlvet_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/springmvc01-serlvet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/springmvc01-servlet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/src/main/java/com/kuang/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/src/main/java/com/kuang/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/target/classes/com/kuang/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/target/classes/com/kuang/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/from.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/from.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/jsp/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc01-serlvet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01-servlet/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springmvc01-serlvet/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc02-hellomvc/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc02-2-reset/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,46 +40,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/src/main/java/com/kuang/HelloServlet.java">
+        <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="416">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/from.jsp">
+        <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/src/main/resources/springmvc-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="546">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/jsp/test.jsp">
+        <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/src/main/java/com/kuang/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="442">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +79,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,6 +97,14 @@
         <option value="$PROJECT_DIR$/springmvc01-serlvet/src/main/java/HelloServlet.java" />
         <option value="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/from.jsp" />
+        <option value="$PROJECT_DIR$/springmvc02-hellomvc/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springmvc02-hellomvc/src/main/java/com/kuang/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springmvc02-hellomvc/web/WEB-INF/jsp/hello.jsp" />
+        <option value="$PROJECT_DIR$/springmvc02-hellomvc/src/main/resources/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/jsp/test.jsp" />
+        <option value="$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springmvc02-2-reset/src/main/java/com/kuang/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springmvc02-2-reset/src/main/resources/springmvc-servlet.xml" />
       </list>
     </option>
   </component>
@@ -120,9 +122,15 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="987" />
-    <option name="width" value="940" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1033" />
+    <option name="width" value="894" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -133,6 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,13 +150,95 @@
               <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
               <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kuang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kuang" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SprngMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SprngMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc02-2-reset" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,6 +247,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -175,13 +270,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.391" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springmvc01-serlvet:war exploded">
+        <artifact name="springmvc02-2-reset:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/springmvc01_serlvet" />
+            <option name="CONTEXT_PATH" value="/springmvc02_2_reset_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -244,7 +337,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc01-serlvet:war exploded" />
+          <artifact name="springmvc02-2-reset:war exploded" />
         </option>
       </method>
     </configuration>
@@ -321,7 +414,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621598145154</updated>
-      <workItem from="1621598146666" duration="2895000" />
+      <workItem from="1621598146666" duration="3035000" />
+      <workItem from="1621648072846" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="添加依赖">
       <created>1621599856384</created>
@@ -330,48 +424,63 @@
       <option name="project" value="LOCAL" />
       <updated>1621599856384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SpingMvc">
+      <created>1621601194207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621601194207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初识SpingMVC">
+      <created>1621650121920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621650121920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2895000" />
+    <option name="totallyTimeSpent" value="6881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="987" y="0" width="940" height="1087" extended-state="0" />
+    <frame x="1033" y="0" width="894" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24031891" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27283654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32982087" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32982087" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982087" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31085354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32982087" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32982087" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32932693" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +488,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加依赖" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加依赖" />
+    <MESSAGE value="SpingMvc" />
+    <MESSAGE value="初识SpingMVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="初识SpingMVC" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -389,21 +500,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springmvc01-servlet/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/jsp/test.jsp">
+    <entry file="file://$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/jsp/test.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/src/main/java/com/kuang/HelloServlet.java">
+    <entry file="file://$PROJECT_DIR$/springmvc01-servlet/web/WEB-INF/from.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc01-servlet/src/main/java/com/kuang/HelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -413,19 +538,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/springmvc02-hellomvc/src/main/java/com/kuang/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc01-serlvet/web/WEB-INF/from.jsp">
+    <entry file="file://$PROJECT_DIR$/springmvc02-hellomvc/web/WEB-INF/jsp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-hellomvc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-hellomvc/src/main/resources/springmvc-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-hellomvc/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/jsp/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/src/main/java/com/kuang/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc02-2-reset/src/main/resources/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springmvc02-2-reset:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
